@@ -1,0 +1,11 @@
+{
+	"name": "ProjektVI",
+	"id": "org.nativescript.ProjektVI",
+	"appPath": "app",
+	"appResourcesPath": "App_Resources",
+	"android": {
+		"v8Flags": "--expose_gc",
+		"markingMode": "none"
+	},
+	"main": "bundle"
+}

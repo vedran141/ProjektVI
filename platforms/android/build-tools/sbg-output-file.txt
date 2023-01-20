@@ -1,0 +1,1 @@
+/home/vedran/ProjektVI/platforms/android/app/src/main/java

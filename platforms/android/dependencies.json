@@ -1,0 +1,17 @@
+[
+    {
+        "name": "@nativescript/core",
+        "directory": "../../node_modules/@nativescript/core",
+        "dependencies": []
+    },
+    {
+        "name": "@nativescript/theme",
+        "directory": "../../node_modules/@nativescript/theme",
+        "dependencies": []
+    },
+    {
+        "name": "@triniwiz/nativescript-accelerometer",
+        "directory": "../../node_modules/@triniwiz/nativescript-accelerometer",
+        "dependencies": []
+    }
+]

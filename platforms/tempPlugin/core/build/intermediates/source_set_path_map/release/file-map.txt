@@ -1,0 +1,8 @@
+org.nativescript.core-pngs-0 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/generated/res/pngs/release
+org.nativescript.core-resValues-1 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/generated/res/resValues/release
+org.nativescript.core-rs-2 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/generated/res/rs/release
+org.nativescript.core-mergeReleaseResources-3 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.nativescript.core-mergeReleaseResources-4 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.nativescript.core-merged_res-5 /home/vedran/ProjektVI/platforms/tempPlugin/core/build/intermediates/merged_res/release
+org.nativescript.core-main-6 /home/vedran/ProjektVI/platforms/tempPlugin/core/src/main/res
+org.nativescript.core-release-7 /home/vedran/ProjektVI/platforms/tempPlugin/core/src/release/res

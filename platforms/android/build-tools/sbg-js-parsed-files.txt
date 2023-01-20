@@ -1,0 +1,3 @@
+/home/vedran/ProjektVI/platforms/android/app/src/main/assets/app/runtime.js
+/home/vedran/ProjektVI/platforms/android/app/src/main/assets/app/bundle.js
+/home/vedran/ProjektVI/platforms/android/app/src/main/assets/app/vendor.js
